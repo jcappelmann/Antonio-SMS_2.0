@@ -11,7 +11,7 @@
   $msg = $_GET['msg'];
   
   $sub = "Hold ".$frm." to reply";
-  $frm = "pebble@sms_2.0.php";
+  $frm = "3212989633";
   $hdr = "From: ".$frm;
 
   $sentOK = 0;
